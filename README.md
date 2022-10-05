@@ -1,2 +1,2 @@
 # Guess-History
-Juego de memoria desarrollado con JavaScript, HTML5 y SASS
+Juego de memoria basado en personajes de la historia desarrollado con JavaScript, HTML5 y SASS.
